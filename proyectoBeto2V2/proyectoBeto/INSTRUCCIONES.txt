@@ -1,0 +1,9 @@
+En el archivo Config/config.php cambiar el valor de la constante BASE_URL por la ruta de tu proyecto.
+http://localhost/sisusuarios
+
+Para acceder debes colocar la ruta de tu proyecto en el navegador, por ejemplo:
+http://localhost/carpetadetuproyecto/login
+http://localhost/sisusuarios/login
+
+Usuario: carlosgsuac@gmail.com
+Clave: 123456
